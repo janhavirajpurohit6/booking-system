@@ -1,0 +1,13 @@
+{
+  "name": "booking-system",
+  "version": "1.0.0",
+  "description": "OOP-based Flight & Hotel Booking System with Express REST API and SQLite persistence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "better-sqlite3": "^11.3.0"
+  }
+}
